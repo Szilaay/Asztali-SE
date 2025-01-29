@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\tb_valutavalto\\frmarfolyam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|solutionrelative:tb_valutavalto\\frmarfolyam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\tb_valutavalto\\frmdeviza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|solutionrelative:tb_valutavalto\\frmdeviza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\tb_valutavalto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|solutionrelative:tb_valutavalto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|solutionrelative:tb_valutavalto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\tb_valutavalto\\frmdeviza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA41DAC7-4629-4215-94D9-5D4139F9D470}|tb_valutavalto\\tb_valutavalto.csproj|solutionrelative:tb_valutavalto\\frmdeviza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmArfolyam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmArfolyam.cs",
+              "RelativeDocumentMoniker": "tb_valutavalto\\frmArfolyam.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmArfolyam.cs [Design]",
+              "RelativeToolTip": "tb_valutavalto\\frmArfolyam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:22:06.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDeviza.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmDeviza.cs",
+              "RelativeDocumentMoniker": "tb_valutavalto\\frmDeviza.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmDeviza.cs",
+              "RelativeToolTip": "tb_valutavalto\\frmDeviza.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:26:07.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDeviza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmDeviza.cs",
+              "RelativeDocumentMoniker": "tb_valutavalto\\frmDeviza.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\frmDeviza.cs [Design]",
+              "RelativeToolTip": "tb_valutavalto\\frmDeviza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:17:34.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\Form1.cs",
+              "RelativeDocumentMoniker": "tb_valutavalto\\Form1.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\Form1.cs",
+              "RelativeToolTip": "tb_valutavalto\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:14:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\Form1.cs",
+              "RelativeDocumentMoniker": "tb_valutavalto\\Form1.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\tb_valutavalto\\Form1.cs [Design]",
+              "RelativeToolTip": "tb_valutavalto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:09:44.887Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\bin\Debug\tb_valutavalto.exe.config
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\bin\Debug\tb_valutavalto.exe
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\bin\Debug\tb_valutavalto.pdb
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.csproj.AssemblyReference.cache
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.Form1.resources
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.Properties.Resources.resources
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.csproj.GenerateResource.cache
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.csproj.CoreCompileInputs.cache
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.exe
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.pdb
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.frmDeviza.resources
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\tb_valutavalto\obj\Debug\tb_valutavalto.frmArfolyam.resources

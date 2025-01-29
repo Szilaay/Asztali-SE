@@ -1,0 +1,5 @@
+EUR;Euró
+
+USD;USA Dollár
+
+CZK;Cseh korona

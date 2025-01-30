@@ -31,11 +31,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.cbDev = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnElvet = new System.Windows.Forms.Button();
             this.btnMentes = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,6 +68,22 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Egység";
             // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(6, 66);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 22);
+            this.textBox2.TabIndex = 1;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(6, 35);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 0;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -87,6 +103,7 @@
             this.btnElvet.TabIndex = 5;
             this.btnElvet.Text = "Elvet";
             this.btnElvet.UseVisualStyleBackColor = true;
+            this.btnElvet.Click += new System.EventHandler(this.btnElvet_Click);
             // 
             // btnMentes
             // 
@@ -98,20 +115,7 @@
             this.btnMentes.TabIndex = 6;
             this.btnMentes.Text = "Mentés";
             this.btnMentes.UseVisualStyleBackColor = true;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(6, 35);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 0;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(6, 66);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 1;
+            this.btnMentes.Click += new System.EventHandler(this.btnMentes_Click);
             // 
             // frmArfolyam
             // 
@@ -125,10 +129,11 @@
             this.Controls.Add(this.cbDev);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmArfolyam";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Árfolyam rögzítése";
+            this.Load += new System.EventHandler(this.frmArfolyam_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

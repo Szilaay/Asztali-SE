@@ -78,7 +78,7 @@ namespace tb_valutavalto
                     FileStream fs = new FileStream(file, FileMode.Append);
                     StreamWriter sw = new StreamWriter(fs);
 
-                    sw.WriteLine($"\n{txDevKod.Text};{txDevNev.Text}");
+                    sw.Write($"\n{txDevKod.Text};{txDevNev.Text}");
 
                     sw.Close();
                     fs.Close();
@@ -88,7 +88,7 @@ namespace tb_valutavalto
                     FileStream fs = new FileStream(file, FileMode.Create);
                     StreamWriter sw = new StreamWriter(fs);
 
-                    sw.WriteLine($"{txDevKod.Text};{txDevNev.Text}");
+                    sw.Write($"{txDevKod.Text};{txDevNev.Text}");
 
                     sw.Close();
                     fs.Close();

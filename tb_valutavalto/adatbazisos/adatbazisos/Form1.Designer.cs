@@ -32,14 +32,15 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txKereses = new System.Windows.Forms.TextBox();
             this.dgAdatok = new System.Windows.Forms.DataGridView();
-            this.lbAtlag = new System.Windows.Forms.Label();
-            this.btnUjAdat = new System.Windows.Forms.Button();
             this.autoid = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.rendszam = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tipus = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.szin = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tulajszam = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ar = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lbAtlag = new System.Windows.Forms.Label();
+            this.btnUjAdat = new System.Windows.Forms.Button();
+            this.btnModositas = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgAdatok)).BeginInit();
             this.SuspendLayout();
             // 
@@ -68,6 +69,7 @@
             this.txKereses.Name = "txKereses";
             this.txKereses.Size = new System.Drawing.Size(223, 26);
             this.txKereses.TabIndex = 2;
+            this.txKereses.TextChanged += new System.EventHandler(this.txKereses_TextChanged);
             // 
             // dgAdatok
             // 
@@ -81,8 +83,56 @@
             this.ar});
             this.dgAdatok.Location = new System.Drawing.Point(12, 148);
             this.dgAdatok.Name = "dgAdatok";
-            this.dgAdatok.Size = new System.Drawing.Size(737, 263);
+            this.dgAdatok.Size = new System.Drawing.Size(737, 198);
             this.dgAdatok.TabIndex = 3;
+            // 
+            // autoid
+            // 
+            this.autoid.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.autoid.FillWeight = 101.7259F;
+            this.autoid.HeaderText = "Azonosító";
+            this.autoid.Name = "autoid";
+            this.autoid.ReadOnly = true;
+            // 
+            // rendszam
+            // 
+            this.rendszam.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.rendszam.FillWeight = 101.7259F;
+            this.rendszam.HeaderText = "Rendszám";
+            this.rendszam.Name = "rendszam";
+            this.rendszam.ReadOnly = true;
+            // 
+            // tipus
+            // 
+            this.tipus.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.tipus.FillWeight = 101.7259F;
+            this.tipus.HeaderText = "Típus";
+            this.tipus.Name = "tipus";
+            this.tipus.ReadOnly = true;
+            // 
+            // szin
+            // 
+            this.szin.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.szin.FillWeight = 101.7259F;
+            this.szin.HeaderText = "Szín";
+            this.szin.Name = "szin";
+            this.szin.ReadOnly = true;
+            // 
+            // tulajszam
+            // 
+            this.tulajszam.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.tulajszam.FillWeight = 91.37057F;
+            this.tulajszam.HeaderText = "Tulajdonosok száma";
+            this.tulajszam.Name = "tulajszam";
+            this.tulajszam.ReadOnly = true;
+            // 
+            // ar
+            // 
+            this.ar.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.ar.FillWeight = 101.7259F;
+            this.ar.HeaderText = "Ára";
+            this.ar.Name = "ar";
+            this.ar.ReadOnly = true;
             // 
             // lbAtlag
             // 
@@ -101,54 +151,24 @@
             this.btnUjAdat.TabIndex = 5;
             this.btnUjAdat.Text = "Új adat felvitel";
             this.btnUjAdat.UseVisualStyleBackColor = true;
+            this.btnUjAdat.Click += new System.EventHandler(this.btnUjAdat_Click);
             // 
-            // autoid
+            // btnModositas
             // 
-            this.autoid.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.autoid.HeaderText = "Azonosító";
-            this.autoid.Name = "autoid";
-            this.autoid.ReadOnly = true;
-            // 
-            // rendszam
-            // 
-            this.rendszam.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.rendszam.HeaderText = "Rendszám";
-            this.rendszam.Name = "rendszam";
-            this.rendszam.ReadOnly = true;
-            // 
-            // tipus
-            // 
-            this.tipus.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.tipus.HeaderText = "Típus";
-            this.tipus.Name = "tipus";
-            this.tipus.ReadOnly = true;
-            // 
-            // szin
-            // 
-            this.szin.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.szin.HeaderText = "Szín";
-            this.szin.Name = "szin";
-            this.szin.ReadOnly = true;
-            // 
-            // tulajszam
-            // 
-            this.tulajszam.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.tulajszam.HeaderText = "Tulajdonosok száma";
-            this.tulajszam.Name = "tulajszam";
-            this.tulajszam.ReadOnly = true;
-            // 
-            // ar
-            // 
-            this.ar.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.ar.HeaderText = "Ára";
-            this.ar.Name = "ar";
-            this.ar.ReadOnly = true;
+            this.btnModositas.Location = new System.Drawing.Point(505, 353);
+            this.btnModositas.Name = "btnModositas";
+            this.btnModositas.Size = new System.Drawing.Size(244, 79);
+            this.btnModositas.TabIndex = 6;
+            this.btnModositas.Text = "Adat módosítása";
+            this.btnModositas.UseVisualStyleBackColor = true;
+            this.btnModositas.Click += new System.EventHandler(this.btnModositas_Click);
             // 
             // frmFo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(768, 444);
+            this.Controls.Add(this.btnModositas);
             this.Controls.Add(this.btnUjAdat);
             this.Controls.Add(this.lbAtlag);
             this.Controls.Add(this.dgAdatok);
@@ -156,9 +176,11 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnBetoltes);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.MaximizeBox = false;
             this.Name = "frmFo";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Gépjármű nyílvántartás";
             ((System.ComponentModel.ISupportInitialize)(this.dgAdatok)).EndInit();
             this.ResumeLayout(false);
@@ -180,6 +202,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn szin;
         private System.Windows.Forms.DataGridViewTextBoxColumn tulajszam;
         private System.Windows.Forms.DataGridViewTextBoxColumn ar;
+        private System.Windows.Forms.Button btnModositas;
     }
 }
 

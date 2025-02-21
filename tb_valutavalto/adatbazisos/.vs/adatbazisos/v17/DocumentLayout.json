@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmmodositas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\frmmodositas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmmodositas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\frmmodositas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmfelvitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\frmfelvitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmfelvitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\frmfelvitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\tb_valutavalto\\adatbazisos\\adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDC3E0-A650-4DD2-BC4E-A34D2D3FA5E6}|adatbazisos\\adatbazisos.csproj|solutionrelative:adatbazisos\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +43,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmModositas.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmModositas.cs",
+              "RelativeDocumentMoniker": "adatbazisos\\frmModositas.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmModositas.cs",
+              "RelativeToolTip": "adatbazisos\\frmModositas.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:26:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmModositas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmModositas.cs",
+              "RelativeDocumentMoniker": "adatbazisos\\frmModositas.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmModositas.cs [Design]",
+              "RelativeToolTip": "adatbazisos\\frmModositas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:22:45.816Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFelvitel.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmFelvitel.cs",
+              "RelativeDocumentMoniker": "adatbazisos\\frmFelvitel.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmFelvitel.cs",
+              "RelativeToolTip": "adatbazisos\\frmFelvitel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:57:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFelvitel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmFelvitel.cs",
+              "RelativeDocumentMoniker": "adatbazisos\\frmFelvitel.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\frmFelvitel.cs [Design]",
+              "RelativeToolTip": "adatbazisos\\frmFelvitel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:32:14.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\Form1.cs",
               "RelativeDocumentMoniker": "adatbazisos\\Form1.cs",
               "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\Form1.cs",
               "RelativeToolTip": "adatbazisos\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T08:25:17.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Adatbazis.cs",
               "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\Adatbazis.cs",
               "RelativeDocumentMoniker": "adatbazisos\\Adatbazis.cs",
               "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\Adatbazis.cs",
               "RelativeToolTip": "adatbazisos\\Adatbazis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T07:40:20.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\tb_valutavalto\\adatbazisos\\adatbazisos\\Form1.cs",
               "RelativeDocumentMoniker": "adatbazisos\\Form1.cs",

@@ -41,3 +41,5 @@ C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos
 C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos\obj\Debug\adatbazi.8A0FE53F.Up2Date
 C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos\obj\Debug\adatbazisos.exe
 C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos\obj\Debug\adatbazisos.pdb
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos\obj\Debug\adatbazisos.frmFelvitel.resources
+C:\Users\szucs.szilard\Desktop\Asztali-SE\tb_valutavalto\adatbazisos\adatbazisos\obj\Debug\adatbazisos.frmModositas.resources

@@ -112,6 +112,7 @@
             this.txFizetes.Name = "txFizetes";
             this.txFizetes.Size = new System.Drawing.Size(116, 20);
             this.txFizetes.TabIndex = 9;
+            this.txFizetes.TextChanged += new System.EventHandler(this.txFizetes_TextChanged);
             // 
             // label5
             // 
@@ -220,6 +221,7 @@
             this.btnMentes.TabIndex = 20;
             this.btnMentes.Text = "Mentés";
             this.btnMentes.UseVisualStyleBackColor = false;
+            this.btnMentes.Click += new System.EventHandler(this.btnMentes_Click);
             // 
             // Form1
             // 

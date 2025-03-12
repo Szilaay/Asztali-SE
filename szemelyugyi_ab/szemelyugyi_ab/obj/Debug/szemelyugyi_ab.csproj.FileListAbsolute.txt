@@ -41,3 +41,4 @@ C:\Users\szucs.szilard\Desktop\Asztali-SE\szemelyugyi_ab\szemelyugyi_ab\obj\Debu
 C:\Users\szucs.szilard\Desktop\Asztali-SE\szemelyugyi_ab\szemelyugyi_ab\obj\Debug\szemelyu.79AE8A20.Up2Date
 C:\Users\szucs.szilard\Desktop\Asztali-SE\szemelyugyi_ab\szemelyugyi_ab\obj\Debug\szemelyugyi_ab.exe
 C:\Users\szucs.szilard\Desktop\Asztali-SE\szemelyugyi_ab\szemelyugyi_ab\obj\Debug\szemelyugyi_ab.pdb
+C:\Users\szucs.szilard\Desktop\Asztali-SE\szemelyugyi_ab\szemelyugyi_ab\obj\Debug\szemelyugyi_ab.frmStatisztika.resources

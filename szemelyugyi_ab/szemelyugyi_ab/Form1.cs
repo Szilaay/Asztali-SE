@@ -131,5 +131,11 @@ namespace szemelyugyi_ab
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmStatisztika frm = new frmStatisztika();
+            frm.Show();
+        }
     }
 }

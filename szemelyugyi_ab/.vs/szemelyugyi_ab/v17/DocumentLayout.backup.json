@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\szemelyugyi_ab\\szemelyugyi_ab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\szemelyugyi_ab\\szemelyugyi_ab\\frmstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\frmstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\Adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|c:\\users\\szucs.szilard\\desktop\\asztali-se\\szemelyugyi_ab\\szemelyugyi_ab\\frmstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\frmstatisztika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|solutionrelative:szemelyugyi_ab\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B73EBF19-F604-4386-B265-C997B10582D2}|szemelyugyi_ab\\szemelyugyi_ab.csproj|C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,20 +30,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Form1.cs",
               "RelativeDocumentMoniker": "szemelyugyi_ab\\Form1.cs",
               "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Form1.cs",
               "RelativeToolTip": "szemelyugyi_ab\\Form1.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAIwF8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAhwIgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T08:31:08.615Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStatisztika.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\frmStatisztika.cs",
+              "RelativeDocumentMoniker": "szemelyugyi_ab\\frmStatisztika.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\frmStatisztika.cs",
+              "RelativeToolTip": "szemelyugyi_ab\\frmStatisztika.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAjwGsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:04:11.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStatisztika.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\frmStatisztika.cs",
+              "RelativeDocumentMoniker": "szemelyugyi_ab\\frmStatisztika.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\frmStatisztika.cs [Design]",
+              "RelativeToolTip": "szemelyugyi_ab\\frmStatisztika.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:59:38.372Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -45,14 +79,14 @@
               "RelativeDocumentMoniker": "szemelyugyi_ab\\Adatbazis.cs",
               "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Adatbazis.cs",
               "RelativeToolTip": "szemelyugyi_ab\\Adatbazis.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T08:09:08.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\Asztali-SE\\szemelyugyi_ab\\szemelyugyi_ab\\Form1.cs",
               "RelativeDocumentMoniker": "szemelyugyi_ab\\Form1.cs",

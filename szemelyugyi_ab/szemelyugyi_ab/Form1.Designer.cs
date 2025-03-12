@@ -45,6 +45,7 @@
             this.cbTelephely = new System.Windows.Forms.ComboBox();
             this.label10 = new System.Windows.Forms.Label();
             this.btnMentes = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -223,11 +224,26 @@
             this.btnMentes.UseVisualStyleBackColor = false;
             this.btnMentes.Click += new System.EventHandler(this.btnMentes_Click);
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.button1.ForeColor = System.Drawing.Color.Lime;
+            this.button1.Location = new System.Drawing.Point(247, 6);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(124, 72);
+            this.button1.TabIndex = 21;
+            this.button1.Text = "S";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(372, 322);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnMentes);
             this.Controls.Add(this.cbTelephely);
             this.Controls.Add(this.label10);
@@ -274,6 +290,7 @@
         private System.Windows.Forms.ComboBox cbTelephely;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Button btnMentes;
+        private System.Windows.Forms.Button button1;
     }
 }
 

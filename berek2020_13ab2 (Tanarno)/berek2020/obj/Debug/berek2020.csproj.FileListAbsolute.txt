@@ -1,0 +1,7 @@
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\bin\Debug\berek2020.exe.config
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\bin\Debug\berek2020.exe
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\bin\Debug\berek2020.pdb
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\obj\Debug\berek2020.csproj.AssemblyReference.cache
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\obj\Debug\berek2020.csproj.CoreCompileInputs.cache
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\obj\Debug\berek2020.exe
+C:\Users\somogyie\Desktop\13ab2\berek2020\berek2020\obj\Debug\berek2020.pdb

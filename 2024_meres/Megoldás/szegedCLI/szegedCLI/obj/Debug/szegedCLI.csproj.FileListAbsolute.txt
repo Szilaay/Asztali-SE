@@ -1,0 +1,7 @@
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\obj\Debug\szegedCLI.csproj.AssemblyReference.cache
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\obj\Debug\szegedCLI.csproj.CoreCompileInputs.cache
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\bin\Debug\szegedCLI.exe.config
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\bin\Debug\szegedCLI.exe
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\bin\Debug\szegedCLI.pdb
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\obj\Debug\szegedCLI.exe
+C:\Users\szucs.szilard\Desktop\Asztali-SE\2024_meres\Megoldás\szegedCLI\szegedCLI\obj\Debug\szegedCLI.pdb

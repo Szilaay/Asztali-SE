@@ -1,0 +1,40 @@
+-- allatok tabla adatai
+
+('Szurikáta', 'Suricata suricatta', 'e', 'Dél-Afrika'),
+('Alpaka', 'Vicugna pacos', 'e', 'Dél-Amerika'),
+('Kéksárga ara', 'Ara ararauna', 'm', 'Dél-Amerika'),
+('Rózsás flamingó', 'Phoenicopterus roseus', 'm', 'Dél-Európa, Afrika, Közép-Amerika, Dél-Ázsia'),
+('Szélesszájú orrszarvú', 'Ceratotherium simum', 'e', 'Dél- és Kelet-Afrika'),
+('Smaragdzöld piton', 'Morelia viridis', 'h', 'Délkelet-Ázsia és Ausztrália'),
+('Alföldi zebra', 'Equus quagga', 'e', 'Közép- és Dél-Afrika'),
+('Afrikai elefánt', 'Loxodonta africana', 'e', 'Közép- és Dél-Afrika'),
+('Ausztrál királypapagáj', 'Alisterus scapularis', 'm', 'Kelet-Ausztrália'),
+('Karmazsin rozella', 'Platycercus elegans', 'm', 'Kelet-Ausztrália'),
+('Szalagos tigrispiton', 'Python bivittatus', 'h', 'Dél- és Délkelet-Ázsia'),
+('Mosómedve', 'Procyon lotor', 'e', 'Észak-, Közép- és Dél-Amerika'),
+('Oroszlán', 'Panthera leo', 'e', 'Afrika, India'),
+('Óriástukán', 'Ramphastos toco', 'm', 'Dél-Amerika'),
+('Kerecsensólyom', 'Falco cherrug', 'm', 'Európa és Ázsia'),
+('Emu', 'Dromaius novaehollandiae', 'm', 'Ausztrália'),
+('Királypingvin', 'Aptenodytes patagonicus', 'm', 'Antarktisz'),
+('Uhu', 'Bubo bubo', 'm', 'Európa, Ázsia'),
+('Barnamedve', 'Ursus arctos', 'e', 'Európa, Ázsia és Észak-Amerika'),
+('Gabonasikló', 'Elaphe guttata', 'h', 'Észak-Amerika');
+
+-- jegyek tábla adatai
+
+('Felnőtt', '1', '', 3000),
+('Diák', '1', 'Érvényes diákigazolvány felmutatásával', 2500),
+('Nyugdíjas', '1', 'Nyugdíjas igazolvány felmutatásával', 2300),
+('Gyermek', '1', '3-14 éves korig', 1500),
+('Kisgyermek', '1', '3 éves kor alatt', 150),
+('Családi jegy 2+1', '2', 'Két felnőt és egy gyermek részére', 6500),
+('Családi jegy 2+2', '2', 'Két felnőt és két gyermek részére', 7500),
+('Nagycsaládos jegy', '2', 'Két felnőt és három vagy több gyermek részére', 9000),
+('Regisztrációs belépő', '1', 'Igazoltan fogyatékkal élők számára igénybe vehető. Az alábbi igazolványokat fogadjuk el: Magyar Vakok és Gyengénlátók Országos Szövetsége, Siketek és Nagyothallók Országos Szövetsége, Mozgáskorlátozottak Egyesületeinek Országos Szövetsége, Értelmi Fogyatékossággal Élők és Segítők Országos Éredekvédelmi Szövetsége, Autisták Országos Szövetsége', 600),
+('Kisérő jegy', '1', 'Fogyatékkal élő személy kisérőjeként, max. 1 fő', 300),
+('Pedagógus jegy', '1', 'Érvényes pedagógus igazolvánnyal', 1500),
+('Csoportos felnőtt jegy', '3', 'Minimum 10 fős csoport esetén', 2400),
+('Csoportos diákjegy', '3', 'Minimum 10 fő esetén, érvényes diákigazolvány felmutatásával', 2000),
+('Csoportos nyugdíjas jegy', '3', 'Minimum 10 fő esetén, nyugdíjas igazolvány felmutatásával', 1800),
+('Csoportos gyerekjegy', '3', 'Minimum 10 fő esetén, 3-14 éves korig', 1200);
